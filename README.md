@@ -84,6 +84,12 @@ Animated timer, notification blocking, ambient sounds, native Kotlin home screen
 
 ---
 
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub metrics" />
+</p>
+
+---
+
 ## 📫 Reach me
 
 > *"Ship it. Then make it better."*
