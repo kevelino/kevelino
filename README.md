@@ -84,8 +84,15 @@ Animated timer, notification blocking, ambient sounds, native Kotlin home screen
 
 ---
 
+## 📊 GitHub activity
+
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kevelino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevelino&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <sub>Most of my work lives in private repositories (client projects & products in development), so this only shows part of the picture.</sub>
 </p>
 
 ---
